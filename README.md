@@ -24,3 +24,6 @@ Connecting to the THETA
 When you switch on WiFi on your THETA, it creates a network called `THETA` followed by its serial
 number, e.g. `THETAXN20123456`. The numeric part of the serial number is the password.
 (Only if you didn't change it in the THETA app.)
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/m15-WiPy-remote-control)
+
